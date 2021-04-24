@@ -1,0 +1,9 @@
+domain: frestyle
+layout:
+- go.kubebuilder.io/v3
+plugins:
+  manifests.sdk.operatorframework.io/v2: {}
+  scorecard.sdk.operatorframework.io/v2: {}
+projectName: k8s-operator
+repo: github.com/frestyle/k8s-operator
+version: "3"
