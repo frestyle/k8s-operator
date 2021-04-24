@@ -1,0 +1,7 @@
+apiVersion: queue.frestyle/v1alpha1
+kind: RabbitQueue
+metadata:
+  name: rabbitqueue-sample
+spec:
+  # Add fields here
+  foo: bar
